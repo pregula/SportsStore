@@ -48,3 +48,6 @@ SportsStore/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
 /SportsStore/obj
 /SportsStore.Tests/bin
 /SportsStore.Tests/obj
+/SportsStore/wwwroot/lib/bootstrap/site
+/SportsStore/wwwroot/lib/bootstrap/.github
+/SportsStore/wwwroot/lib/bootstrap/build
